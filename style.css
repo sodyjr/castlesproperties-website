@@ -1217,12 +1217,12 @@ blockquote
     .col-md-4_text-center{
         margin-bottom: 10px;
     }
-    */
-    @media(max-width: 550px){
+    
+    @media(max-width: 5px){
         .footer1 {
             margin-top: -150px;
         }
-    }
+    }*/
     @media(max-width: 665px)
     {
    

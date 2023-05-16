@@ -1218,7 +1218,7 @@ blockquote
         margin-bottom: 10px;
     }
     */
-    @media(max-width: 600px){
+    @media(max-width: 550px){
         .footer1 {
             margin-top: -150px;
         }

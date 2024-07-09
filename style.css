@@ -232,7 +232,6 @@ nav{
     font-size: 5rem;
     background-color: rgb(174, 228, 174);
     background-image: linear-gradient(to top, #880808 0%, rgb(122, 141, 115)100%);
-	background-attachment: fixed;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
